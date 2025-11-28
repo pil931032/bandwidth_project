@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"stdio.h": "c",
+			"time.h": "c",
+			"ws2tcpip.h": "c"
+		}
+	}
+}
